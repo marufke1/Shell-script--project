@@ -15,12 +15,12 @@ comment
 # Description: constant value for the variable
 # Version: V1
 
-readonly citizen="Canada"
+readonly country="Canada"
 
-echo "My citizenship is $citizen"
+echo "My country is $country"
 
 # if we try to change the vale of the variable then show the error in the script
 
-citizen="Bangladesh"
+country="Bangladesh"
 
-echo "My citizenship is $citizen"
+echo "My country is $country"
