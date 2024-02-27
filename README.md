@@ -22,4 +22,5 @@ Variables are defined using an assignment operation, and their values can be acc
 dollar sign $. Here's a basic syntax for defining a variable:
 
 **name="xyz"
+
 echo "My name is $name"**
