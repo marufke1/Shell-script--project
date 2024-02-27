@@ -21,6 +21,19 @@ data types explicitly.
 Variables are defined using an assignment operation, and their values can be accessed or modified using the variable name preceded by a
 dollar sign $. Here's a basic syntax for defining a variable:
 
-**name="xyz"
+**name="xyz"**
 
-echo "My name is $name"**
+**echo "My name is $name"**
+
+**DESCRIPTION FOR OTHER VARIABLE SCRIPT:** We can store any output of linux-command into a variable:
+
+**hostname=$(hostname)**
+
+**echo "My machine name is $hostname"** ## the output of the hostname command will be stored into a $hostname variable.
+
+**DESCRIPTION FOR CONSTANT VARIABLE: Constant variable allows to store any fixed value into a variable and then noone won't
+be able to change the valur in the future.
+
+**readme country="Canada"**
+
+**echo "My country is canada"** ## readme only allows to read the script but not allowing to change the value of the variable. 
