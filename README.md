@@ -31,7 +31,7 @@ dollar sign $. Here's a basic syntax for defining a variable:
 
 **echo "My machine name is $hostname"** ## the output of the hostname command will be stored into a $hostname variable.
 
-**DESCRIPTION FOR CONSTANT VARIABLE: Constant variable allows to store any fixed value into a variable and then noone won't
+**DESCRIPTION FOR CONSTANT VARIABLE:** Constant variable allows to store any fixed value into a variable and then noone won't
 be able to change the valur in the future.
 
 **readme country="Canada"**
