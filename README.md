@@ -37,6 +37,8 @@ dollar sign $. Here's a basic syntax for defining a variable:
 **DESCRIPTION FOR CONSTANT VARIABLE:** Constant variable allows to store any fixed value into a variable and then noone won't
 be able to change the valur in the future.
 
-**readme country="Canada"**
+**readonly country="Canada"**
 
-**echo "My country is canada"** ## readme only allows to read the script but not allowing to change the value of the variable. 
+**echo "My country is canada"** ## readonly allows to read the script but not allowing to change the value of the variable in the script.
+
+
