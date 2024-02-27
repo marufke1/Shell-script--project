@@ -14,6 +14,7 @@ CONCLUSION: Then it will send an automated message to devops engineer and this i
 the machine - in this case we are looking for all the ec2 -user process is running and the output will be printed out only with the process id 
 of the ec2- user.
 
+
 **DESCRIPTION FOR VARIABLE SCRIPT:** In shell scripting, a variable is a symbolic name that represents or refers to a value. Variables can 
 hold various types of data such as strings, integers, floating-point numbers, boolean values, and more. They provide a way to store and 
 manipulate data within a script. In most shell scripting languages like Bash, variables are typically defined without specifying their
@@ -25,11 +26,13 @@ dollar sign $. Here's a basic syntax for defining a variable:
 
 **echo "My name is $name"**
 
+
 **DESCRIPTION FOR OTHER VARIABLE SCRIPT:** We can store any output of linux-command into a variable:
 
 **hostname=$(hostname)**
 
 **echo "My machine name is $hostname"** ## the output of the hostname command will be stored into a $hostname variable.
+
 
 **DESCRIPTION FOR CONSTANT VARIABLE:** Constant variable allows to store any fixed value into a variable and then noone won't
 be able to change the valur in the future.
