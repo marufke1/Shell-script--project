@@ -1,4 +1,5 @@
 
+
 #!/bin/bash
 
 
@@ -11,5 +12,11 @@
 
 hostname=$(hostname)
 echo "my machine name is $hostname"
+
+pwd=$(pwd)
+echo "my current directory is $pwd"
+
+ls=$(ls)
+echo "my current file and directory list's are $ls"
 
 
