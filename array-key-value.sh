@@ -1,15 +1,15 @@
 #!/bin/bash
 
 << comment
- array key value pairs is going to allow
+ array key value pairs are going to allow
 to retrieve the value from the array 
 by using key
 
 comment
 
-# Author: MAruf Hasan
+# Author: Maruf Hasan
 # Date: 2024-02-27
-# Description: retrieve the value by uside different key
+# Description: retrieve the value by using different key
 # Version: V1
 
 declare -A myArray
