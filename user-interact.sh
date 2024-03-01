@@ -13,6 +13,9 @@ comment
 # Description: user-interaction
 # Version: V1
 
+#### We are asking to the user about their personal information and based on that output will
+be printed out on the terminal..
+
 echo "What is your name?"
 read name
 echo "your name is $name"
