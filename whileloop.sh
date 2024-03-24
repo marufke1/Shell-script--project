@@ -2,7 +2,7 @@
 #!/bin/bash
 
 << comment
-while loop allows to execute set od commands repeatidely
+while loop allows to execute set of commands repeatidely
 until the condition true.
 comment
 
