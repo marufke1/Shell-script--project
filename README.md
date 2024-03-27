@@ -28,7 +28,7 @@ With this enhanced AWS Resource Tracker, managing and monitoring AWS resources b
 
 
 
-**Project Description: Deploying Django Application with Shell Script**
+**Project Description: Deploying Django Application with Shell Script:**
 
 This project aims to automate the deployment process of a Django application using a shell script, incorporating error handling techniques to ensure smooth execution. The script consists of several functions designed to streamline the deployment process:
 
