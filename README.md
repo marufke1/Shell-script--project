@@ -1,3 +1,30 @@
+**Project Description: AWS Resource Tracker:**
+
+ The "AWS Resource Tracker" script is designed to facilitate the tracking of various AWS resources deployed within an AWS account. This script enables users to monitor AWS IAM (Identity and Access Management), EC2 (Elastic Compute Cloud), S3 (Simple Storage Service), and Lambda functions.
+To utilize this script effectively, the following steps are outlined:
+
+1.	**Launch an EC2 Instance:** Begin by launching an EC2 instance within the AWS environment.
+
+2.	**Install AWS CLI:** Once the EC2 instance is running, install the AWS Command Line Interface (CLI) to enable interaction with AWS services from the command line.
+
+3.	**Configure AWS CLI:** Use the aws configure command to provide necessary access credentials, including the Access Key and Secret Access Key, allowing the script to establish a secure connection with the AWS account.
+
+4.	**Script Execution:** Grant appropriate permissions and execute the shell script. The script will retrieve comprehensive information about various AWS services, including:
+
+**•EC2 Instances:** Display the number of running instances.
+
+**•	S3 Buckets:** Provide a count of created S3 buckets.
+
+**•	Lambda Functions:** Report the number of deployed Lambda functions.
+
+**•	IAM Users:** Present the count of IAM users created within the AWS account.
+
+By executing this script, users can effortlessly monitor their AWS resources and gain insights into their current usage and configuration.
+
+**Please note:** This script requires appropriate IAM permissions to access and retrieve information about the AWS resources. Ensure that permissions are granted responsibly according to the principle of least privilege.
+
+With this enhanced AWS Resource Tracker, managing and monitoring AWS resources becomes more streamlined and efficient.
+
 
 **Project Description: Deploying Django Application with Shell Script**
 
