@@ -26,6 +26,8 @@ By executing this script, users can effortlessly monitor their AWS resources and
 With this enhanced AWS Resource Tracker, managing and monitoring AWS resources becomes more streamlined and efficient.
 
 
+
+
 **Project Description: Deploying Django Application with Shell Script**
 
 This project aims to automate the deployment process of a Django application using a shell script, incorporating error handling techniques to ensure smooth execution. The script consists of several functions designed to streamline the deployment process:
@@ -49,6 +51,8 @@ This project aims to automate the deployment process of a Django application usi
 
 
 
+
+
 **DESCRIPTION FOR 3rd SCRIPT:** I am writing this script to perform dailly task as a devops engineer for maintaing, managing, configuring, and also 
 checking the health check of vm's are running with different application in the organization. If any problem arises related vm's then pull out the 
 script from git hub to local repository and then execute it. This shell script allows to access to each of the vm's and finds out the problem like -
@@ -60,6 +64,12 @@ Memory outage
 Storage outage
 
 CONCLUSION: Then it will send an automated message to devops engineer and this is the outcome of finding a related problem about the VM's.
+
+
+
+
+
+
 
 **DESCRIPTION FOR 4th SCRIPT:** There are different types of process running on the machine if we want to find out very specific process running on 
 the machine - in this case we are looking for all the ec2 -user process is running and the output will be printed out only with the process id 
