@@ -1,3 +1,8 @@
+**What is shell scripting**:
+
+A shell script is a program that enables the execution of a series of shell commands as a cohesive unit, allowing for automation and streamlining of tasks without the need for direct interaction with the terminal interface.
+
+
 **Project Description: AWS Resource Tracker:**
 
  The "AWS Resource Tracker" script is designed to facilitate the tracking of various AWS resources deployed within an AWS account. This script enables users to monitor AWS IAM (Identity and Access Management), EC2 (Elastic Compute Cloud), S3 (Simple Storage Service), and Lambda functions.
